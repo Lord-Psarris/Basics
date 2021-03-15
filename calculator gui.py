@@ -85,7 +85,6 @@ p = tk.Button(root, text='Clear', width=6, command=clear)
 p.place(x=250, y=count_y)
 
 Label(text='Result:').place(x=5, y=220)
-
 result = Entry(root, width=50)
 result.place(x=5, y=240, height=30)
 

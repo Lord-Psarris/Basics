@@ -1,5 +1,4 @@
 import random
-"""71 to 14"""
 
 print('...')
 
